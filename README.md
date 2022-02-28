@@ -28,4 +28,7 @@
 <a><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/></a>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusmaris&show_icons=true&locale=en&layout=compact" alt="agusmaris" /></p>
+<h2>Get in touch:</h2>
+- 🌎 LinkedIn: <a href="https://www.linkedin.com/in/agustin-mariscotti-0472701b2/">https://www.linkedin.com/in/agustin-mariscotti-0472701b2/</a>
+
+
