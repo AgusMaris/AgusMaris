@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">Mobile developer 📱 and Information Systems Student at UTN 📚</h3>
+<h3 align="center">Mobile developer 📱 and Systems Engineer Student at UTN 📚</h3>
 
 - 🔭 I’m currently working on **Evaluados**
 
