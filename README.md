@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **agustinm06@gmail.com**
 
-<h2>Some technologies i use:</h2>
+<h2> 💻 Some technologies i use:</h2>
 
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -28,7 +28,7 @@
 <a><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/></a>
 
 
-<h2>Get in touch:</h2>
+<h2> 📫 Get in touch:</h2>
 
 - 🌎 LinkedIn: <a href="https://www.linkedin.com/in/agustin-mariscotti-0472701b2/">https://www.linkedin.com/in/agustin-mariscotti-0472701b2/</a>
 
