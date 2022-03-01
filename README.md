@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Evaluados**
 
-- 🌱 I’m currently keeping learning **Typescript, React, React Native**
+- 🌱 I’m currently studying to specialize in **Typescript, React, React Native**
 
 - 📫 Reach me at **agustinm06@gmail.com**
 
