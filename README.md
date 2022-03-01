@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">Mobile developer 📱 and Systems Information Engineer Student at UTN 📚</h3>
+<h3 align="center">Mobile developer 📱 and Information Systems Engineer Student at UTN 📚</h3>
 
 - 🔭 I’m currently working on **Evaluados**
 
@@ -29,6 +29,7 @@
 
 
 <h2>Get in touch:</h2>
+
 - 🌎 LinkedIn: <a href="https://www.linkedin.com/in/agustin-mariscotti-0472701b2/">https://www.linkedin.com/in/agustin-mariscotti-0472701b2/</a>
 
 
