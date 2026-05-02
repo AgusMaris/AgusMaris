@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">Mobile developer 📱 and Systems Engineer Student at UTN 📚</h3>
+<h3 align="center">Fullstack Engineer</h3>
 
-- 🔭 I’m currently working on **Evaluados**
+- 🔭 I’m currently working on **Plannery**
 
 - 🌱 I’m currently studying to specialize in **Typescript, React, React Native & Kotlin**
 
