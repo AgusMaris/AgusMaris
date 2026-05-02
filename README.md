@@ -31,6 +31,7 @@
 
 <h2> 📫 Get in touch:</h2>
 
-- 🌎 LinkedIn: <a href="https://www.linkedin.com/in/agustin-mariscotti-0472701b2/">https://www.linkedin.com/in/agustin-mariscotti-0472701b2/</a>
+
+- 🌎 LinkedIn: <a href="https://www.linkedin.com/in/agustinmariscotti">https://www.linkedin.com/in/agustinmariscotti</a>
 
 
