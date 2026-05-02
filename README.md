@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Plannery**
 
-- 🌱 I’m currently studying to specialize in **Typescript, React, React Native & Kotlin**
-
 - 📫 Reach me at **agustinm06@gmail.com**
 
 <h2> 💻 Some technologies i use:</h2>
